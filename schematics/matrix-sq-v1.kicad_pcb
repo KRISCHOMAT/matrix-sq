@@ -6818,6 +6818,8 @@
     ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 95fe457a-31cf-48ca-a2cb-0cb8d7e04592))
   (gr_circle (center 109.95 204.83) (end 110.55 204.83) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 9bdaecc2-18c2-48a5-9467-8b6b764d6eee))
   (gr_circle (center 109.97 205.64) (end 110.57 205.64) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp de7bcadb-e966-4d5a-8938-c12c96945afa))
+  (gr_rect (start 108.3 140.6) (end 182.7 227.7) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 68e2e928-9ef3-4566-9bbc-6f807cf076b8))
+  (gr_rect (start 67 240) (end 287.5 340) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp f0df8bee-9626-4509-9bbe-cb73b3224ad9))
   (gr_text "Matrix - SQ with   by Christian Grothe" (at 110.16 203.9 90) (layer "F.SilkS") (tstamp 4777d1a2-4f8f-4dd1-b1c9-5cc8a512917b)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
